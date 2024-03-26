@@ -1,0 +1,4 @@
+#Thu Feb 22 11:44:10 IST 2024
+base.0=D\:\\Android Programing\\Pratical 6\\SimpleCalc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
